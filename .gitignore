@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# model weights
+download_model/
+*.pth
+*.pt
+*.ckpt
+*.bin
+
+# temporary/cache
+.cache/
+.DS_Store
+.idea/

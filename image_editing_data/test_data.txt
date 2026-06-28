@@ -1,0 +1,103 @@
+breadfruit_tree2.png;;Create a color pop of the breadfruit tree
+breadfruit_tree3.png;;Create a color pop of breadfruit tree
+breadfruit_tree4.png;;Create a color pop of breadfruit tree
+breadfruit_tree5.png;;Create a color pop of breadfruit tree
+breadfruit_tree6.png;;Create a color pop of breadfruit tree
+tabby_cat2.png;;Create a color pop of tabby cat
+tabby_cat5.jpeg;;Create a color pop of tabby cat
+Christian_Bale.jpg;;Replace Christian Bale with Robbie Wadge
+Christian_Bale.jpg;;Replace Christian Bale with Orlando Bloom
+415314_turn1_source_img.jpg;415314_turn1_target_img.jpg;replace the baseball bat for a laser sword
+483587_turn1_source_img.jpg;483587_turn1_target_img.jpg;change the dog for a cat
+483587_turn2_source_img.jpg;483587_turn2_target_img.jpg;change the background to a river
+7730_turn1_source_img.jpg;7730_turn1_target_img.jpg;Change the cat to a rat.
+369969_turn1_source_img.jpg;369969_turn1_target_img.jpg;replace the truck with a bus
+369969_turn2_source_img.jpg;369969_turn2_target_img.jpg;replace the american flag with a red flag
+193680_turn1_source_img.jpg;193680_turn1_target_img.jpg;change the cat to a fox.
+17320_turn1_source_img.jpg;17320_turn1_target_img.jpg;change the green ball to blue
+417830_turn1_source_img.jpg;417830_turn1_target_img.jpg;change the flag of the united states for that of england
+234956_turn1_source_img.jpg;234956_turn1_target_img.jpg;change the stop sign to a welcome sign
+357220_turn1_source_img.jpg;357220_turn1_target_img.jpg;change the color of the soccer ball.
+187866_turn1_source_img.jpg;187866_turn1_target_img.jpg;Change the boy to a girl.
+563122_turn3_source_img.jpg;563122_turn3_target_img.jpg;change the tennis racket into a baseball bat
+426040_turn1_source_img.jpg;426040_turn1_target_img.jpg;Change the hat to a cowboy hat
+468505_turn1_source_img.jpg;468505_turn1_target_img.jpg;Replace all the food with a big pizza.
+100081_turn1_source_img.jpg;100081_turn1_target_img.jpg;change the frisbee into a ball
+536073_turn3_source_img.jpg;536073_turn3_target_img.jpg;Change it for some shot glasses
+134597_turn2_source_img.jpg;134597_turn2_target_img.jpg;make the frisbee blue
+158726_turn2_source_img.jpg;158726_turn2_target_img.jpg;Replace the coffee with beer.
+407550_turn1_source_img.jpg;407550_turn1_target_img.jpg;change the carrot into broccoli
+315319_turn1_source_img.jpg;315319_turn1_target_img.jpg;Change the clock to a TV.
+106508_turn1_source_img.jpg;106508_turn1_target_img.jpg;change the double deck bus to a truck
+359569_turn1_source_img.jpg;359569_turn1_target_img.jpg;Replace the frisbee with a ball.
+294973_turn1_source_img.jpg;294973_turn1_target_img.jpg;change the teddy bear into a ship
+460254_turn1_source_img.jpg;460254_turn1_target_img.jpg;change the male player for a female
+512576_turn1_source_img.jpg;512576_turn1_target_img.jpg;change the fan into a chandelier
+570297_turn1_source_img.jpg;570297_turn1_target_img.jpg;Change the bicycle to a blue bicycle
+334809_turn1_source_img.jpg;334809_turn1_target_img.jpg;Replace the greens with onions.
+381199_turn1_source_img.jpg;381199_turn1_target_img.jpg;Replace the fruit with more veggies.
+524924_turn1_source_img.jpg;524924_turn1_target_img.jpg;change the knife to a chainsaw
+524924_turn2_source_img.jpg;524924_turn2_target_img.jpg;change the pizza into a cake
+524924_turn3_source_img.jpg;524924_turn3_target_img.jpg;change the bowl of fruit into a plate of salad
+211860_turn2_source_img.jpg;211860_turn2_target_img.jpg;Change the woman's hair to blonde
+577847_turn2_source_img.jpg;577847_turn2_target_img.jpg;change the orange into kiwi fruit
+3131_turn1_source_img.jpg;3131_turn1_target_img.jpg;change the toothpicks into candles
+393226_turn2_source_img.jpg;393226_turn2_target_img.jpg;Change the bus for a school bus
+43425_turn1_source_img.jpg;43425_turn1_target_img.jpg;Replace it with a black dog.
+393372_turn1_source_img.jpg;393372_turn1_target_img.jpg;Change the hair color to pink.
+209923_turn1_source_img.jpg;209923_turn1_target_img.jpg;change the wooden cabinetry to steel
+209923_turn2_source_img.jpg;209923_turn2_target_img.jpg;change the wood floor to tiled floor
+354126_turn1_source_img.jpg;354126_turn1_target_img.jpg;change the stuffed toys into rubber duckies
+423935_turn1_source_img.jpg;423935_turn1_target_img.jpg;Change the text on the parking meter to say "NO"
+532493_turn1_source_img.jpg;532493_turn1_target_img.jpg;Change the table's color to red
+458804_turn1_source_img.jpg;458804_turn1_target_img.jpg;Replace the stuffed animals with a pillow.
+181699_turn1_source_img.jpg;181699_turn1_target_img.jpg;replace the donuts with fruits
+125106_turn1_source_img.jpg;125106_turn1_target_img.jpg;replace the chocolate with berries
+572804_turn3_source_img.jpg;572804_turn3_target_img.jpg;change the fire truck into a pickup truck
+332877_turn1_source_img.jpg;332877_turn1_target_img.jpg;Change the trees to palm trees
+272405_turn1_source_img.jpg;272405_turn1_target_img.jpg;change the clock tower to a bell tower
+172537_turn2_source_img.jpg;172537_turn2_target_img.jpg;change the USA flag into a Japanese flag
+336015_turn1_source_img.jpg;336015_turn1_target_img.jpg;change the ski gear into a scuba gear
+292451_turn1_source_img.jpg;292451_turn1_target_img.jpg;change the truck into a taxi
+292451_turn3_source_img.jpg;292451_turn3_target_img.jpg;change the trees at the back into palm trees
+501972_turn1_source_img.jpg;501972_turn1_target_img.jpg;change the fire truck into a battle tank
+109776_turn1_source_img.jpg;109776_turn1_target_img.jpg;change the bag of chips into a backpack
+357903_turn2_source_img.jpg;357903_turn2_target_img.jpg;Change the toppings to pepperoni and cheese.
+450597_turn1_source_img.jpg;450597_turn1_target_img.jpg;change kids to men
+98385_turn1_source_img.jpg;98385_turn1_target_img.jpg;change the tea into cappuccino
+98385_turn2_source_img.jpg;98385_turn2_target_img.jpg;change the sandwich to salad
+356888_turn1_source_img.jpg;356888_turn1_target_img.jpg;Replace the cart with an upright one.
+356888_turn2_source_img.jpg;356888_turn2_target_img.jpg;Replace the traffic meter with a pole.
+510027_turn1_source_img.jpg;510027_turn1_target_img.jpg;change the vegetables into broccoli
+206622_turn2_source_img.jpg;206622_turn2_target_img.jpg;Replace the sign with a stop sign.
+392687_turn1_source_img.jpg;392687_turn1_target_img.jpg;change the scooter into a skateboard
+313345_turn1_source_img.jpg;313345_turn1_target_img.jpg;change the Washington Monument with the Statue of Liberty
+422921_turn1_source_img.jpg;422921_turn1_target_img.jpg;change the recording devices to makeup
+422921_turn2_source_img.jpg;422921_turn2_target_img.jpg;change the laptop into a makeup tray.
+566041_turn1_source_img.jpg;566041_turn1_target_img.jpg;Change the flowers on the wallet to be white
+80932_turn2_source_img.jpg;80932_turn2_target_img.jpg;Change the tables to a playland.
+456782_turn1_source_img.jpg;456782_turn1_target_img.jpg;change the red lights to green lights
+309_turn1_source_img.jpg;309_turn1_target_img.jpg;change the teddy bear into a stuffed action figure toy
+45999_turn2_source_img.jpg;45999_turn2_target_img.jpg;change the yellow lights to white lights
+376858_turn1_source_img.jpg;376858_turn1_target_img.jpg;change the giraffe to deer
+280857_turn1_source_img.jpg;280857_turn1_target_img.jpg;Change the floor to be hardwood
+315434_turn1_source_img.jpg;315434_turn1_target_img.jpg;change the no parking for a stop sign
+248341_turn1_source_img.jpg;248341_turn1_target_img.jpg;replace the cake with steak
+258440_turn1_source_img.jpg;258440_turn1_target_img.jpg;replace one of the men with a woman
+294100_turn1_source_img.jpg;294100_turn1_target_img.jpg;change the dog into a pug
+503841_turn1_source_img.jpg;503841_turn1_target_img.jpg;Change the traffic light on the left to gold.
+503841_turn3_source_img.jpg;503841_turn3_target_img.jpg;Change the traffic light on the right to red.
+355871_turn2_source_img.jpg;355871_turn2_target_img.jpg;change pizza into burgers
+507489_turn2_source_img.jpg;507489_turn2_target_img.jpg;change the spectacles into sunglasses
+19037_turn2_source_img.jpg;19037_turn2_target_img.jpg;change the cellphone into an analog phone
+4980_turn1_source_img.jpg;4980_turn1_target_img.jpg;change the suitcase to a basket
+4980_turn3_source_img.jpg;4980_turn3_target_img.jpg;change the skirt to a red skirt
+493753_turn1_source_img.jpg;493753_turn1_target_img.jpg;change  the laptop into a desktop
+186147_turn1_source_img.jpg;186147_turn1_target_img.jpg;Replace the meatballs with shredded chicken.
+212462_turn1_source_img.jpg;212462_turn1_target_img.jpg;Change the orange to apples
+359865_turn2_source_img.jpg;359865_turn2_target_img.jpg;replace one sandwich with a hotdog
+388654_turn3_source_img.jpg;388654_turn3_target_img.jpg;change the mitt into a tennis ball
+557107_turn2_source_img.jpg;557107_turn2_target_img.jpg;change the bed to a trampoline
+24582_turn1_source_img.jpg;24582_turn1_target_img.jpg;Change the clock to a stained glass window showing a duck
+188078_turn2_source_img.jpg;188078_turn2_target_img.jpg;Change the jack to a water bottle
+89694_turn1_source_img.jpg;89694_turn1_target_img.jpg;Change the cat to kittens

@@ -1,0 +1,100 @@
+LLaMA:
+    ckpt_dir_path: '/home/fanchuanhua/project/CLOVA/model/llama-2-7b/'
+#    hf_model_path: '/home/fanchuanhua/project/CLOVA/model/llama-2-7b-hf/'
+    tokenizer_path: './llama/tokenizer.model'
+#    temperature: 0.7
+#    top_p: 0.5
+#    max_seq_len: 4096
+    temperature: 0.1
+    top_p: 0.9
+    max_seq_len: 8192
+    max_gen_len: 256
+    max_batch_size: 1
+#    max_batch_size: 5
+
+    inference:
+        num_start_experience: 25
+
+OpenAI:
+    base_url: 'https://api.chatanywhere.tech'
+    api_key: ''
+Qwen:
+#    default_model: 'qwen-vl-max'
+    default_model: 'qwen3.5-plus'
+    base_url: 'https://dashscope.aliyuncs.com/compatible-mode/v1'
+    api_key: 'sk-7660f57651ae4f3298eeaf9101e8935c'
+    time_out: 300
+    # 新增下面这行，集中管理网络出口
+    proxy_url: "http://127.0.0.1:7897"
+
+#Task_type: 'gqa'
+#Task_type: 'nlvr'
+Task_type: 'imgedit'
+#Task_type: 'knowtag'
+
+
+GQA:
+    incontext_num: 4
+    # Dataset_path: '/home/gaozhi/scratch/GQA'
+    Dataset_path: '/home/fanchuanhua/project/CLOVA/clova_project/dataset_download/GQA'
+    train_data_num: 500
+    test_data_num: 500
+    interval: 50
+    # 新加的地址
+    test_result_save_path: "/home/fanchuanhua/project/CLOVA/clova_project/GQA_result/new_test_result/"
+    train_result_save_path: "/home/fanchuanhua/project/CLOVA/clova_project/GQA_result/train_result/"
+    validation_result_save_path: "/home/fanchuanhua/project/CLOVA/clova_project/GQA_result/validation_result/"
+
+
+NLVR:
+    incontext_num: 3
+    Dataset_path: '/home/fanchuanhua/project/CLOVA/clova_project/dataset_download/nlvr2/'
+    train_file: 'nlvr2_train_500_lambda.pkl'
+    test_file: 'nlvr2_dev_500_lambda.pkl'
+#    train_file: 'train.json'
+#    test_file: 'dev.json'
+    train_data_num: 500
+    test_data_num: 500
+    interval: 50
+
+
+IMGEDIT:
+#    incontext_num: 1
+#    incontext_num: 2
+#    incontext_num: 3
+    incontext_num: 4
+#    incontext_num: 5
+#    incontext_num: 6
+#    incontext_num: 7
+#    incontext_num: 8
+#    incontext_num: 9
+#    incontext_num: 10
+    dataset_train_path: './image_editing_data/train_data.txt'
+    dataset_test_path: './image_editing_data/test_data.txt'
+    image_path: './image_editing_data/images/'
+    result_save_path: './image_editing_data/results/'
+    train_data_num: 500
+    test_data_num: 500
+    interval: 50
+    # 新加的地址
+    test_result_save_path: "/home/fanchuanhua/project/CLOVA/CLOVA-tool/IMGEDIT_result/new_test_result/"
+    train_result_save_path: "/home/fanchuanhua/project/CLOVA/CLOVA-tool/IMGEDIT_result/train_result/"
+    validation_result_save_path: "/home/fanchuanhua/project/CLOVA/CLOVA-tool/IMGEDIT_result/validation_result/"
+
+
+
+KNOWTAG:
+    incontext_num: 8
+    dataset_train_path: './knowtag_data/knowledge_tagging_dataset_v5_train/'
+    dataset_test_path: './knowtag_data/knowledge_tagging_dataset_v5_test/'
+    gt_path: './knowtag_data/knowledge_tagging_dataset_v5_train/ok_tag_box_real_train.json'
+    result_save_path: './knowtag_data/results/'
+    train_data_num: 500
+    test_data_num: 500
+    interval: 50
+    # 新加的地址
+    test_result_save_path: "/home/fanchuanhua/project/CLOVA/CLOVA-tool/KNOWTAG_result/new_test_result/"
+    train_result_save_path: "/home/fanchuanhua/project/CLOVA/CLOVA-tool/KNOWTAG_result/train_result/"
+    validation_result_save_path: "/home/fanchuanhua/project/CLOVA/CLOVA-tool/KNOWTAG_result/validation_result/"
+
+

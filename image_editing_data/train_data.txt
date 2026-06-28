@@ -1,0 +1,25 @@
+breadfruit_tree1.png;;Create a color pop of breadfruit tree;0;a wrong object is selected for color pop, rather than the breadfruit tree.
+tabby_cat1.png;;Create a color pop of tabby cat;0;a wrong object is selected for color pop, rather than the tabby cat.
+Leonardo.jpg;;Replace Leonardo with Robbie Wadge;0;Leonardo is replaced with a wrong object, rather than Robbie Wadge.
+Leonardo.jpg;;Replace Leonardo with Orlando Bloom;0;Leonardo is replaced with a wrong object, rather than Orlando Bloom.
+327726_turn1_source_img.jpg;327726_turn1_target_img.jpg;change the table for a dog;0;baseball bat is replaced with a wrong object, rather than laser sword.
+181992_turn3_source_img.jpg;181992_turn3_target_img.jpg;replace some bags with throw pillows;0;some bags are replaced with a wrong object, rather than throw pillows.
+166761_turn1_source_img.jpg;166761_turn1_target_img.jpg;change the grass to water;0;grass is replaced with a wrong object, rather than water.
+23781_turn2_source_img.jpg;23781_turn2_target_img.jpg;change potatoes into oranges;0;potatoes are replaced with a wrong object, rather than oranges.
+192047_turn1_source_img.jpg;192047_turn1_target_img.jpg;Replace the mirror with a window.;0;mirror is replaced with a wrong object, rather than window.
+328270_turn1_source_img.jpg;328270_turn1_target_img.jpg;change the blue shirt to red shirt;0;the blue shirt is replaced with a wrong object, rather than red shirt.
+62756_turn2_source_img.jpg;62756_turn2_target_img.jpg;replace the white truck with a white motorcycle;0;the white truck is replaced with a wrong object, rather than white motorcycle.
+274516_turn1_source_img.jpg;274516_turn1_target_img.jpg;change the motorcycle into an ATV;0;motorcycle is replaced with a wrong object, rather than a ATV.
+72795_turn1_source_img.jpg;72795_turn1_target_img.jpg;Replace the batter with Batman.;0;batter is replaced with a wrong object, rather than Batman.
+202066_turn1_source_img.jpg;202066_turn1_target_img.jpg;change the poster for a painting;0;poster is replaced with a wrong object, rather than painting.
+130579_turn2_source_img.jpg;130579_turn2_target_img.jpg;Change the hats to white ones;0;hats is replaced with a wrong object, rather than white ones.
+65562_turn1_source_img.jpg;65562_turn1_target_img.jpg;change the baseball bat into a cucumber;0;the baseball bat is replaced with a wrong object, rather than a cucumber.
+227523_turn1_source_img.jpg;227523_turn1_target_img.jpg;change the stop sign to a "For Sale" sign;0;the stop sign is replaced with a wrong object, rather than a "For Sale" sign.
+472364_turn3_source_img.jpg;472364_turn3_target_img.jpg;change the hair to red;0;hair is replaced with a wrong color, rather than red.
+98325_turn1_source_img.jpg;98325_turn1_target_img.jpg;Change the pillows to be purple;0;the pillows is replaced with a wrong color, rather than purple.
+82041_turn2_source_img.jpg;82041_turn2_target_img.jpg;change the carrots for a bear;0;the carrots are replaced with a wrong object, rather than a bear.
+357424_turn1_source_img.jpg;357424_turn1_target_img.jpg;change the bigger bear into a brown grizzly bear;0;the bigger bear is replaced with a wrong object, rather than a brown grizzly bear.
+294080_turn1_source_img.jpg;294080_turn1_target_img.jpg;Change the carrots to cucumbers;0;the carrots are replaced with a wrong object, rather than cucumbers.
+294080_turn2_source_img.jpg;294080_turn2_target_img.jpg;Change the color of the broth to yellow;0;the broth is replaced with a wrong color, rather than yellow.
+149406_turn1_source_img.jpg;149406_turn1_target_img.jpg;Replace the old motorcycle with an old bicycle.;0;the old motorcycle is replaced with a wrong object, rather than an old bicycle.
+189648_turn1_source_img.jpg;189648_turn1_target_img.jpg;Change the bowl of soup to a bowl of white rice;0;the bowl of soup is replaced with a wrong object, rather than a bowl of white rice.
